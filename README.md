@@ -151,7 +151,7 @@ The Internet is a vast cache of information and if you know how to navigage it w
 
 - [ ] Learn how to use some features from ES6, the next version of JavaScript.
   - `npm install -g count-to-6`
-- [ ] Understanding JavaScript Prototypes
+- [x] Understanding JavaScript Prototypes
   - `npm install -g planetproto`
 - [ ] ES6 using Babel
   - `npm install tower-of-babel -g`
@@ -164,7 +164,7 @@ The Internet is a vast cache of information and if you know how to navigage it w
 
 - [x] Learn about Streams
   - `npm install -g stream-adventure`
-- [ ] Learn to use the async package.
+- [x] Learn to use the async package.
   - `npm install -g async-you`
 - [ ] Gulp.js
   - <http://gulpjs.com/>
