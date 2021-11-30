@@ -155,9 +155,9 @@ The Internet is a vast cache of information and if you know how to navigage it w
   - `npm install -g planetproto`
 - [ ] ES6 using Babel
   - `npm install tower-of-babel -g`
-- [ ] An Intro to JavaScript ES6 Generators.
+- [x] An Intro to JavaScript ES6 Generators.
   - `npm install -g learn-generators`
-- [ ] ES6 Iterators
+- [x] ES6 Iterators
   - `npm install -g esnext-generation`
 
 ### Advanced Node
